@@ -8,27 +8,26 @@ gems: [jekyll-paginate]
 port: 4000
 safe: true
 url: http://biomadeira.github.io/vitae
-author: Fábio Madeira
+author: Earvin Kayonga
 
 # edit this section with your information
 # biomadeira.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
 baseurl: /vitae/
-title: Chris Turner's Resume
-name: Chris Turner
-email: christurner@me.com
-email_full: mailto:youremail@me.com
-website: github.io/sustain
-website_full: https://biomadeira.github.io/sustain
-github: trending
-twitter: twitter
-tel: +44 0000 000000
-tel_full: tel:+440000000000
-google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
-address: 44 Perth Street
-postcode: EH3 5BL
-city: Edinburgh
-country: United Kingdom
+title: Earvin Kayonga's Resume
+name: Earvin Kayonga
+email: earvin@earvinkayonga.com
+email_full: mailto:earvin@earvinkayonga.com
+website: earvinkayonga.com
+website_full: https://earvinkayonga.com
+github: EarvinKayonga
+twitter: EarvinKayonga
+#tel: +44 0000 000000
+##tel_full: tel:+440000000000
+google_maps: 'https://www.google.com/maps/place/Paris,+France/@48.8589507,2.2775172,12z/data=!3m1!4b1!4m2!3m1!1s0x47e66e1f06e2b70f:0x40b82c3688c9460'
+#postcode: 75000
+city: Paris
+country: France
 google_analytics: UA-69300817-1
 
 # needed for travis-ci build
