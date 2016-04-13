@@ -28,7 +28,7 @@ google_maps: 'https://www.google.com/maps/place/Paris,+France/@48.8589507,2.2775
 #postcode: 75000
 city: Paris
 country: France
-google_analytics: UA-69300817-1
+google_analytics: UA-76175245-1Ga
 
 # needed for travis-ci build
 exclude: [vendor]
