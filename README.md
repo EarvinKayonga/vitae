@@ -10,7 +10,7 @@ hosted in [Github pages](https://pages.github.com/).
 
 ## View the live demo
 
-[Vitae Live Demo](https://biomadeira.github.io/vitae)
+[Vitae Live Demo](https://earvinkayonga.com/vitae)
 
 
 ## Screenshots
